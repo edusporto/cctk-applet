@@ -17,7 +17,7 @@ yay -S dell-command-configure
 ## Building
 
 The Rust toolchain needs to be installed to build this project.
-Installation instructions can be found on https://rustup.rs/.
+Installation instructions can be found at https://rustup.rs/.
 
 Once the toolchain is installed, the program can be built with
 
